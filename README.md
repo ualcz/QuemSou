@@ -30,8 +30,8 @@ Este projeto foi desenvolvido em **Python**, utilizando a biblioteca `discord.py
 
 1. **Clone o repositório:**
    ```bash
-   git clone https://github.com/seu-usuario/quem-sou-eu.git
-   cd quem-sou-eu
+   git clone https://github.com/ualcz/QuemSou.git
+   cd QuemSou
    ```
 
 2. **Crie e ative um ambiente virtual:**
